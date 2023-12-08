@@ -4,7 +4,7 @@ import (
 	"log"
 
 	//"github.com/go-sql-driver/mysql"
-	"proxy.cloudwave.cn/share/go-sql-driver/cloudwave"
+	"github.com/cloudwavedatabase/database_sql_cloudwave"
 )
 
 var errCodes = map[string]uint16{

@@ -11,7 +11,7 @@ import (
 	"time"
 
 	//"github.com/go-sql-driver/mysql"
-	"proxy.cloudwave.cn/share/go-sql-driver/cloudwave"
+	"github.com/cloudwavedatabase/database_sql_cloudwave"
 
 	"gorm.io/gorm"
 	"gorm.io/gorm/callbacks"

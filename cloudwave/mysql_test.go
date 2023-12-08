@@ -2,10 +2,10 @@ package cloudwave
 
 import (
 	"bytes"
-	"proxy.cloudwave.cn/share/go-sql-driver/cloudwave"
+	"github.com/cloudwavedatabase/database_sql_cloudwave"
 	"testing"
 
-	_ "proxy.cloudwave.cn/share/go-sql-driver/cloudwave"
+	_ "github.com/cloudwavedatabase/database_sql_cloudwave"
 )
 
 func TestNew(t *testing.T) {
