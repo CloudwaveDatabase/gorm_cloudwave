@@ -1,4 +1,4 @@
-module gorm_cloudwave
+module proxy.cloudwave.cn/share/go-sql-driver/gorm_cloudwave
 
 go 1.19
 
